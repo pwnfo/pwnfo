@@ -1,0 +1,39 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pwnfo/pwnfo/my-snake/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pwnfo/pwnfo/my-snake/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/pwnfo/pwnfo/my-snake/snake.svg"/>
+  </picture>
+</p>
+
+<h1 align="center">Ryan R</h1>
+<p align="center">Bug Hunter · Aspiring <b>Security Analyst</b></p>
+
+<div align="center">
+  <h3>Main Stack:</h3>
+  <img src="https://skillicons.dev/icons?i=python,rust,c,js,html,css" alt="Main Tech Stack" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=bash,powershell,linux,cloudflare,nodejs,github" alt="Main Tech Stack" /><br><br>
+  
+  <h3>Others:</h3>
+  <img src="https://skillicons.dev/icons?i=selenium,wordpress,docker,postman,mongodb" alt="Other Tech Stack" />
+</div>
+
+---
+
+### ♞ About me:
+- Information Security Student
+- Bug hunter on Bugcrowd & HackerOne
+- Linux enthusiast
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pwnfo&theme=material-palenight&show_icons=true&hide_border=true&count_private=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnfo&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
+</p>
+
+---
