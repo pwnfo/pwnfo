@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=python,rust,c,js,html,css" alt="Main Tech Stack" />
   <br>
   <br>
-  <img src="https://skillicons.dev/icons?i=bash,powershell,linux,cloudflare,nodejs,github" alt="Main Tech Stack" /><br><br>
+  <img src="https://skillicons.dev/icons?i=bash,powershell,linux,nodejs,github" alt="Main Tech Stack" /><br><br>
   
   <h3>Others:</h3>
   <img src="https://skillicons.dev/icons?i=selenium,wordpress,docker,postman,mongodb" alt="Other Tech Stack" />
@@ -23,9 +23,10 @@
 ---
 
 ### ♞ About me:
-- Information Security Student
-- Bug hunter on Bugcrowd & HackerOne
-- Linux enthusiast
+- Information Security student with practical experience in penetration testing.
+- Bug hunter on <b>Bugcrowd</b> & <b>HackerOne</b>
+- Linux user and tinkerer, comfortable with system administration and scripting.
+- Interested in exploring security tools, exploits, and automation for testing.
 ---
 
 <p align="center">
