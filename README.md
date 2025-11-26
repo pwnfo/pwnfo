@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pwnfo&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" alt=">
+  <img src="https://github-readme-stats.vercel.app/api?username=pwnfo&theme=material-palenight&show_icons=true&hide_border=true&count_private=true">
 </p>
 
 <p align="center">
